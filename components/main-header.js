@@ -7,12 +7,12 @@ export default function MainHeader() {
             <div id="logo">
                 <Link href="/">NextNews</Link>
             </div>
-            <nav>
-                <ul>
-                    <li>
+            <nav className="main-nav">
+                <ul className="nav-list">
+                    <li className="nav-item">
                         <NavLink href="/news">News</NavLink>
                     </li>
-                    <li>
+                    <li className="nav-item">
                         <NavLink href="/archive">Archive</NavLink>
                     </li>
                 </ul>
