@@ -23,7 +23,7 @@ A comprehensive demonstration of Next.js 14+ routing, rendering strategies, and 
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Figrac0/Next-News_routing-rendering/Routing%2BData_Fetching/screenshots/Next.js%20Page%20Routing%20%26%20Rendering.gif" alt="Project Demo GIF - Full Application Walkthrough" width="800"/><br/>
+  <img src="https://github.com/Figrac0/Next-News_routing-rendering/blob/Routing%2BData_Fetching/screenshots/maingif.gif" alt="Project Demo GIF - Full Application Walkthrough" width="800"/><br/>
 </p>
 
 ---
