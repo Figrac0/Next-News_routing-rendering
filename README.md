@@ -10,7 +10,7 @@ A comprehensive demonstration of Next.js 14+ routing, rendering strategies, and 
 
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin: 30px 0;">
 
-<a href="https://next-news-routing-rendering.vercel.app/news" target="_blank" style="text-decoration: none;">
+<a href="https://next-news-routing-rendering-jts9.vercel.app/" target="_blank" style="text-decoration: none;">
   <div style="background: linear-gradient(135deg, #2563eb, #7c3aed); padding: 15px 30px; border-radius: 12px; color: white; font-weight: bold; font-size: 18px; box-shadow: 0 4px 15px rgba(37, 99, 235, 0.3); transition: all 0.3s ease; border: 2px solid white;">
     View Live Application
   </div>
