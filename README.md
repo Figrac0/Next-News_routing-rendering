@@ -26,17 +26,25 @@ A comprehensive demonstration of Next.js 14+ routing, rendering strategies, and 
   <img src="https://raw.githubusercontent.com/Figrac0/Next-News_routing-rendering/main/screenshots/1.png" alt="Home Page - NextNews Landing" width="400"/><br/>
 </p>
 
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Figrac0/Next-News_routing-rendering/main/screenshots/2.png" alt="News Listing - Article Grid View" width="400"/><br/>
 </p>
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Figrac0/Next-News_routing-rendering/main/screenshots/3.png" alt="Article Detail - Full Content View" width="400"/><br/>
 </p>
 
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Figrac0/Next-News_routing-rendering/main/screenshots/4.png" alt="Archive Filtering - Year/Month Navigation" width="400"/><br/>
 </p>
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Figrac0/Next-News_routing-rendering/main/screenshots/5.png" alt="Modal Image View - Intercepted Route" width="400"/><br/>
