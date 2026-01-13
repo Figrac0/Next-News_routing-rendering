@@ -1,4 +1,4 @@
-# Next.js Advanced Routing & Rendering Demo
+# Next.js Advanced Routing & Rendering 
 
 A comprehensive demonstration of Next.js 14+ routing, rendering strategies, and architectural patterns. This project showcases professional implementation of file-based routing with advanced features like parallel routes, intercepting routes, dynamic routing, and error boundaries.
 
@@ -15,6 +15,8 @@ A comprehensive demonstration of Next.js 14+ routing, rendering strategies, and 
     View Live Application
   </div>
 </a>
+
+</div>
 
 </div>
 
@@ -90,7 +92,7 @@ The project follows Next.js 14+ App Router conventions with a focus on:
 - **Responsive Design**: Mobile-first approach with Tailwind CSS
 
 
-```text
+```js
 app/
 ├── (content)/                 # Route group for content pages
 │   ├── news/                 # News section
